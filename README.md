@@ -5,6 +5,8 @@ a pocket calculator.
 
 [![Build Status](https://dev.azure.com/muradturshani/Enable%20countinous%20integration%20with%20Azure%20Piplines/_apis/build/status/muradturshani.calculator?branchName=master)](https://dev.azure.com/muradturshani/Enable%20countinous%20integration%20with%20Azure%20Piplines/_build/latest?definitionId=6&branchName=master)
 
+https://dev.azure.com/muradturshani/Enable%20countinous%20integration%20with%20Azure%20Piplines/_apis/build/status/muradturshani.calculator?branchName=master
+
 The project contains a simple node.js application that exposes REST APIs
 to perform arithmetic on integers, and provides a test suite with mocha
 and chai.  The `mocha-junit-reporters` package is included to provide XML
